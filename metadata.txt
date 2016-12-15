@@ -1,0 +1,2662 @@
+[root@esp-test tif]# gdalinfo hrs00006fea_07_if173l_trr3_CAT_scale_trial_p.img.tif
+Driver: GTiff/GeoTIFF
+Files: hrs00006fea_07_if173l_trr3_CAT_scale_trial_p.img.tif
+       hrs00006fea_07_if173l_trr3_CAT_scale_trial_p.img.tif.aux.xml
+Size is 259, 356
+Coordinate System is:
+PROJCS["Mars_Spolar_Stereo",
+    GEOGCS["GCS_Unknown",
+        DATUM["Unknown",
+            SPHEROID["S_Unknown",3396190,169.8944472236118]],
+        PRIMEM["Greenwich",0],
+        UNIT["degree",0.0174532925199433]],
+    PROJECTION["Polar_Stereographic"],
+    PARAMETER["latitude_of_origin",-90],
+    PARAMETER["central_meridian",74.53184509277344],
+    PARAMETER["scale_factor",1],
+    PARAMETER["false_easting",0],
+    PARAMETER["false_northing",0],
+    UNIT["metre",1,
+        AUTHORITY["EPSG","9001"]]]
+Origin = (-3700.549700000000030,128337.469800000006217)
+Pixel Size = (31.899999999999999,-31.899999999999999)
+Metadata:
+  AREA_OR_POINT=Area
+  Band_100=Georef (Band 100:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.651330 Micrometers)
+  Band_101=Georef (Band 101:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.657910 Micrometers)
+  Band_102=Georef (Band 102:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.664490 Micrometers)
+  Band_103=Georef (Band 103:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.671070 Micrometers)
+  Band_104=Georef (Band 104:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.677660 Micrometers)
+  Band_105=Georef (Band 105:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.684240 Micrometers)
+  Band_106=Georef (Band 106:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.690820 Micrometers)
+  Band_107=Georef (Band 107:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.697410 Micrometers)
+  Band_108=Georef (Band 108:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.703990 Micrometers)
+  Band_109=Georef (Band 109:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.710580 Micrometers)
+  Band_10=Georef (Band 10:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.060300 Micrometers)
+  Band_110=Georef (Band 110:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.717160 Micrometers)
+  Band_111=Georef (Band 111:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.723750 Micrometers)
+  Band_112=Georef (Band 112:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.730330 Micrometers)
+  Band_113=Georef (Band 113:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.736920 Micrometers)
+  Band_114=Georef (Band 114:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.743510 Micrometers)
+  Band_115=Georef (Band 115:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.750090 Micrometers)
+  Band_116=Georef (Band 116:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.756680 Micrometers)
+  Band_117=Georef (Band 117:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.763270 Micrometers)
+  Band_118=Georef (Band 118:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.769850 Micrometers)
+  Band_119=Georef (Band 119:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.776440 Micrometers)
+  Band_11=Georef (Band 11:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.066850 Micrometers)
+  Band_120=Georef (Band 120:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.783030 Micrometers)
+  Band_121=Georef (Band 121:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.789620 Micrometers)
+  Band_122=Georef (Band 122:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.796210 Micrometers)
+  Band_123=Georef (Band 123:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.802800 Micrometers)
+  Band_124=Georef (Band 124:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.809390 Micrometers)
+  Band_125=Georef (Band 125:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.815980 Micrometers)
+  Band_126=Georef (Band 126:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.822570 Micrometers)
+  Band_127=Georef (Band 127:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.829160 Micrometers)
+  Band_128=Georef (Band 128:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.835750 Micrometers)
+  Band_129=Georef (Band 129:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.842340 Micrometers)
+  Band_12=Georef (Band 12:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.073410 Micrometers)
+  Band_130=Georef (Band 130:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.848930 Micrometers)
+  Band_131=Georef (Band 131:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.855520 Micrometers)
+  Band_132=Georef (Band 132:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.862120 Micrometers)
+  Band_133=Georef (Band 133:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.868710 Micrometers)
+  Band_134=Georef (Band 134:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.875300 Micrometers)
+  Band_135=Georef (Band 135:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.881900 Micrometers)
+  Band_136=Georef (Band 136:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.888490 Micrometers)
+  Band_137=Georef (Band 137:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.895080 Micrometers)
+  Band_138=Georef (Band 138:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.901680 Micrometers)
+  Band_139=Georef (Band 139:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.908270 Micrometers)
+  Band_13=Georef (Band 13:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.079960 Micrometers)
+  Band_140=Georef (Band 140:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.914870 Micrometers)
+  Band_141=Georef (Band 141:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.921460 Micrometers)
+  Band_142=Georef (Band 142:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.928060 Micrometers)
+  Band_143=Georef (Band 143:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.934650 Micrometers)
+  Band_144=Georef (Band 144:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.941250 Micrometers)
+  Band_145=Georef (Band 145:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.947850 Micrometers)
+  Band_146=Georef (Band 146:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.954440 Micrometers)
+  Band_147=Georef (Band 147:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.961040 Micrometers)
+  Band_148=Georef (Band 148:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.967640 Micrometers)
+  Band_149=Georef (Band 149:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.974240 Micrometers)
+  Band_14=Georef (Band 14:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.086510 Micrometers)
+  Band_150=Georef (Band 150:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.980840 Micrometers)
+  Band_151=Georef (Band 151:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.987430 Micrometers)
+  Band_152=Georef (Band 152:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.994030 Micrometers)
+  Band_153=Georef (Band 153:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.000630 Micrometers)
+  Band_154=Georef (Band 154:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.007230 Micrometers)
+  Band_155=Georef (Band 155:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.013830 Micrometers)
+  Band_156=Georef (Band 156:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.020430 Micrometers)
+  Band_157=Georef (Band 157:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.027030 Micrometers)
+  Band_158=Georef (Band 158:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.033630 Micrometers)
+  Band_159=Georef (Band 159:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.040240 Micrometers)
+  Band_15=Georef (Band 15:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.093070 Micrometers)
+  Band_160=Georef (Band 160:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.046840 Micrometers)
+  Band_161=Georef (Band 161:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.053440 Micrometers)
+  Band_162=Georef (Band 162:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.060040 Micrometers)
+  Band_163=Georef (Band 163:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.066640 Micrometers)
+  Band_164=Georef (Band 164:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.073250 Micrometers)
+  Band_165=Georef (Band 165:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.079850 Micrometers)
+  Band_166=Georef (Band 166:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.086450 Micrometers)
+  Band_167=Georef (Band 167:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.093060 Micrometers)
+  Band_168=Georef (Band 168:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.099660 Micrometers)
+  Band_169=Georef (Band 169:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.106270 Micrometers)
+  Band_16=Georef (Band 16:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.099620 Micrometers)
+  Band_170=Georef (Band 170:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.112870 Micrometers)
+  Band_171=Georef (Band 171:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.119480 Micrometers)
+  Band_172=Georef (Band 172:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.126080 Micrometers)
+  Band_173=Georef (Band 173:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.132690 Micrometers)
+  Band_174=Georef (Band 174:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.139300 Micrometers)
+  Band_175=Georef (Band 175:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.145900 Micrometers)
+  Band_176=Georef (Band 176:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.152510 Micrometers)
+  Band_177=Georef (Band 177:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.159120 Micrometers)
+  Band_178=Georef (Band 178:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.165720 Micrometers)
+  Band_179=Georef (Band 179:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.172330 Micrometers)
+  Band_17=Georef (Band 17:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.106170 Micrometers)
+  Band_180=Georef (Band 180:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.178940 Micrometers)
+  Band_181=Georef (Band 181:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.185550 Micrometers)
+  Band_182=Georef (Band 182:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.192160 Micrometers)
+  Band_183=Georef (Band 183:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.198770 Micrometers)
+  Band_184=Georef (Band 184:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.205380 Micrometers)
+  Band_185=Georef (Band 185:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.211990 Micrometers)
+  Band_186=Georef (Band 186:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.218600 Micrometers)
+  Band_187=Georef (Band 187:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.225210 Micrometers)
+  Band_188=Georef (Band 188:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.231820 Micrometers)
+  Band_189=Georef (Band 189:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.238430 Micrometers)
+  Band_18=Georef (Band 18:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.112730 Micrometers)
+  Band_190=Georef (Band 190:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.245040 Micrometers)
+  Band_191=Georef (Band 191:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.251650 Micrometers)
+  Band_192=Georef (Band 192:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.258270 Micrometers)
+  Band_193=Georef (Band 193:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.264880 Micrometers)
+  Band_194=Georef (Band 194:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.271490 Micrometers)
+  Band_195=Georef (Band 195:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.278100 Micrometers)
+  Band_196=Georef (Band 196:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.284720 Micrometers)
+  Band_197=Georef (Band 197:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.291330 Micrometers)
+  Band_198=Georef (Band 198:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.297950 Micrometers)
+  Band_199=Georef (Band 199:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.304560 Micrometers)
+  Band_19=Georef (Band 19:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.119280 Micrometers)
+  Band_1=Georef (Band 1:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.001350 Micrometers)
+  Band_200=Georef (Band 200:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.311180 Micrometers)
+  Band_201=Georef (Band 201:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.317790 Micrometers)
+  Band_202=Georef (Band 202:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.324410 Micrometers)
+  Band_203=Georef (Band 203:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.331020 Micrometers)
+  Band_204=Georef (Band 204:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.337640 Micrometers)
+  Band_205=Georef (Band 205:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.344260 Micrometers)
+  Band_206=Georef (Band 206:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.350870 Micrometers)
+  Band_207=Georef (Band 207:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.357490 Micrometers)
+  Band_208=Georef (Band 208:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.364110 Micrometers)
+  Band_209=Georef (Band 209:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.370720 Micrometers)
+  Band_20=Georef (Band 20:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.125840 Micrometers)
+  Band_210=Georef (Band 210:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.377340 Micrometers)
+  Band_211=Georef (Band 211:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.383960 Micrometers)
+  Band_212=Georef (Band 212:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.390580 Micrometers)
+  Band_213=Georef (Band 213:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.397200 Micrometers)
+  Band_214=Georef (Band 214:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.403820 Micrometers)
+  Band_215=Georef (Band 215:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.410440 Micrometers)
+  Band_216=Georef (Band 216:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.417060 Micrometers)
+  Band_217=Georef (Band 217:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.423680 Micrometers)
+  Band_218=Georef (Band 218:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.430300 Micrometers)
+  Band_219=Georef (Band 219:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.436920 Micrometers)
+  Band_21=Georef (Band 21:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.132390 Micrometers)
+  Band_220=Georef (Band 220:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.443540 Micrometers)
+  Band_221=Georef (Band 221:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.450170 Micrometers)
+  Band_222=Georef (Band 222:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.456790 Micrometers)
+  Band_223=Georef (Band 223:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.463410 Micrometers)
+  Band_224=Georef (Band 224:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.470030 Micrometers)
+  Band_225=Georef (Band 225:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.476660 Micrometers)
+  Band_226=Georef (Band 226:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.483280 Micrometers)
+  Band_227=Georef (Band 227:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.489900 Micrometers)
+  Band_228=Georef (Band 228:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.496530 Micrometers)
+  Band_229=Georef (Band 229:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.503120 Micrometers)
+  Band_22=Georef (Band 22:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.138950 Micrometers)
+  Band_230=Georef (Band 230:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.509720 Micrometers)
+  Band_231=Georef (Band 231:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.516320 Micrometers)
+  Band_232=Georef (Band 232:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.522920 Micrometers)
+  Band_233=Georef (Band 233:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.529510 Micrometers)
+  Band_234=Georef (Band 234:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.536110 Micrometers)
+  Band_235=Georef (Band 235:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.542710 Micrometers)
+  Band_236=Georef (Band 236:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.549310 Micrometers)
+  Band_237=Georef (Band 237:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.555910 Micrometers)
+  Band_238=Georef (Band 238:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.562510 Micrometers)
+  Band_239=Georef (Band 239:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.569110 Micrometers)
+  Band_23=Georef (Band 23:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.145510 Micrometers)
+  Band_240=Georef (Band 240:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.575710 Micrometers)
+  Band_241=Georef (Band 241:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.582310 Micrometers)
+  Band_242=Georef (Band 242:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.588910 Micrometers)
+  Band_243=Georef (Band 243:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.595510 Micrometers)
+  Band_244=Georef (Band 244:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.602120 Micrometers)
+  Band_245=Georef (Band 245:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.608720 Micrometers)
+  Band_246=Georef (Band 246:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.615320 Micrometers)
+  Band_247=Georef (Band 247:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.621920 Micrometers)
+  Band_248=Georef (Band 248:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.628530 Micrometers)
+  Band_249=Georef (Band 249:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.635130 Micrometers)
+  Band_24=Georef (Band 24:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.152060 Micrometers)
+  Band_250=Georef (Band 250:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.641740 Micrometers)
+  Band_251=Georef (Band 251:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.648340 Micrometers)
+  Band_252=Georef (Band 252:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.654950 Micrometers)
+  Band_253=Georef (Band 253:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.661550 Micrometers)
+  Band_254=Georef (Band 254:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.668160 Micrometers)
+  Band_255=Georef (Band 255:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.674760 Micrometers)
+  Band_256=Georef (Band 256:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.681370 Micrometers)
+  Band_257=Georef (Band 257:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.687980 Micrometers)
+  Band_258=Georef (Band 258:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.694580 Micrometers)
+  Band_259=Georef (Band 259:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.701190 Micrometers)
+  Band_25=Georef (Band 25:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.158620 Micrometers)
+  Band_260=Georef (Band 260:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.760680 Micrometers)
+  Band_261=Georef (Band 261:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.767290 Micrometers)
+  Band_262=Georef (Band 262:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.773900 Micrometers)
+  Band_263=Georef (Band 263:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.780520 Micrometers)
+  Band_264=Georef (Band 264:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.787130 Micrometers)
+  Band_265=Georef (Band 265:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.793740 Micrometers)
+  Band_266=Georef (Band 266:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.800350 Micrometers)
+  Band_267=Georef (Band 267:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.806970 Micrometers)
+  Band_268=Georef (Band 268:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.813580 Micrometers)
+  Band_269=Georef (Band 269:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.820200 Micrometers)
+  Band_26=Georef (Band 26:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.165180 Micrometers)
+  Band_270=Georef (Band 270:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.826810 Micrometers)
+  Band_271=Georef (Band 271:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.833430 Micrometers)
+  Band_272=Georef (Band 272:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.840040 Micrometers)
+  Band_273=Georef (Band 273:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.846660 Micrometers)
+  Band_274=Georef (Band 274:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.853280 Micrometers)
+  Band_275=Georef (Band 275:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.859890 Micrometers)
+  Band_276=Georef (Band 276:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.866510 Micrometers)
+  Band_277=Georef (Band 277:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.873130 Micrometers)
+  Band_278=Georef (Band 278:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.879750 Micrometers)
+  Band_279=Georef (Band 279:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.886360 Micrometers)
+  Band_27=Georef (Band 27:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.171730 Micrometers)
+  Band_280=Georef (Band 280:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.892980 Micrometers)
+  Band_281=Georef (Band 281:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.899600 Micrometers)
+  Band_282=Georef (Band 282:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.906220 Micrometers)
+  Band_283=Georef (Band 283:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.912840 Micrometers)
+  Band_284=Georef (Band 284:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.919460 Micrometers)
+  Band_285=Georef (Band 285:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.926080 Micrometers)
+  Band_286=Georef (Band 286:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.932700 Micrometers)
+  Band_287=Georef (Band 287:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.939320 Micrometers)
+  Band_288=Georef (Band 288:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.945950 Micrometers)
+  Band_289=Georef (Band 289:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.952570 Micrometers)
+  Band_28=Georef (Band 28:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.178290 Micrometers)
+  Band_290=Georef (Band 290:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.959190 Micrometers)
+  Band_291=Georef (Band 291:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.965810 Micrometers)
+  Band_292=Georef (Band 292:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.972440 Micrometers)
+  Band_293=Georef (Band 293:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.979060 Micrometers)
+  Band_294=Georef (Band 294:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.985680 Micrometers)
+  Band_295=Georef (Band 295:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.992310 Micrometers)
+  Band_296=Georef (Band 296:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (2.998930 Micrometers)
+  Band_297=Georef (Band 297:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.005560 Micrometers)
+  Band_298=Georef (Band 298:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.012180 Micrometers)
+  Band_299=Georef (Band 299:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.018810 Micrometers)
+  Band_29=Georef (Band 29:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.184850 Micrometers)
+  Band_2=Georef (Band 2:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.007900 Micrometers)
+  Band_300=Georef (Band 300:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.025440 Micrometers)
+  Band_301=Georef (Band 301:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.032060 Micrometers)
+  Band_302=Georef (Band 302:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.038690 Micrometers)
+  Band_303=Georef (Band 303:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.045320 Micrometers)
+  Band_304=Georef (Band 304:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.051950 Micrometers)
+  Band_305=Georef (Band 305:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.058570 Micrometers)
+  Band_306=Georef (Band 306:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.065200 Micrometers)
+  Band_307=Georef (Band 307:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.071830 Micrometers)
+  Band_308=Georef (Band 308:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.078460 Micrometers)
+  Band_309=Georef (Band 309:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.085090 Micrometers)
+  Band_30=Georef (Band 30:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.191410 Micrometers)
+  Band_310=Georef (Band 310:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.091720 Micrometers)
+  Band_311=Georef (Band 311:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.098350 Micrometers)
+  Band_312=Georef (Band 312:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.104980 Micrometers)
+  Band_313=Georef (Band 313:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.111610 Micrometers)
+  Band_314=Georef (Band 314:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.118250 Micrometers)
+  Band_315=Georef (Band 315:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.124880 Micrometers)
+  Band_316=Georef (Band 316:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.131510 Micrometers)
+  Band_317=Georef (Band 317:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.138140 Micrometers)
+  Band_318=Georef (Band 318:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.144780 Micrometers)
+  Band_319=Georef (Band 319:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.151410 Micrometers)
+  Band_31=Georef (Band 31:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.197970 Micrometers)
+  Band_320=Georef (Band 320:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.158040 Micrometers)
+  Band_321=Georef (Band 321:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.164680 Micrometers)
+  Band_322=Georef (Band 322:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.171310 Micrometers)
+  Band_323=Georef (Band 323:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.177950 Micrometers)
+  Band_324=Georef (Band 324:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.184580 Micrometers)
+  Band_325=Georef (Band 325:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.191220 Micrometers)
+  Band_326=Georef (Band 326:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.197850 Micrometers)
+  Band_327=Georef (Band 327:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.204490 Micrometers)
+  Band_328=Georef (Band 328:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.211130 Micrometers)
+  Band_329=Georef (Band 329:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.217760 Micrometers)
+  Band_32=Georef (Band 32:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.204530 Micrometers)
+  Band_330=Georef (Band 330:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.224400 Micrometers)
+  Band_331=Georef (Band 331:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.231040 Micrometers)
+  Band_332=Georef (Band 332:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.237680 Micrometers)
+  Band_333=Georef (Band 333:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.244320 Micrometers)
+  Band_334=Georef (Band 334:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.250960 Micrometers)
+  Band_335=Georef (Band 335:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.257600 Micrometers)
+  Band_336=Georef (Band 336:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.264240 Micrometers)
+  Band_337=Georef (Band 337:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.270880 Micrometers)
+  Band_338=Georef (Band 338:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.277520 Micrometers)
+  Band_339=Georef (Band 339:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.284160 Micrometers)
+  Band_33=Georef (Band 33:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.211090 Micrometers)
+  Band_340=Georef (Band 340:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.290800 Micrometers)
+  Band_341=Georef (Band 341:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.297440 Micrometers)
+  Band_342=Georef (Band 342:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.304080 Micrometers)
+  Band_343=Georef (Band 343:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.310730 Micrometers)
+  Band_344=Georef (Band 344:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.317370 Micrometers)
+  Band_345=Georef (Band 345:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.324010 Micrometers)
+  Band_346=Georef (Band 346:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.330660 Micrometers)
+  Band_347=Georef (Band 347:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.337300 Micrometers)
+  Band_348=Georef (Band 348:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.343950 Micrometers)
+  Band_349=Georef (Band 349:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.350590 Micrometers)
+  Band_34=Georef (Band 34:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.217650 Micrometers)
+  Band_350=Georef (Band 350:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.357240 Micrometers)
+  Band_351=Georef (Band 351:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.363880 Micrometers)
+  Band_352=Georef (Band 352:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.370530 Micrometers)
+  Band_353=Georef (Band 353:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.377170 Micrometers)
+  Band_354=Georef (Band 354:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.383820 Micrometers)
+  Band_355=Georef (Band 355:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.390470 Micrometers)
+  Band_356=Georef (Band 356:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.397120 Micrometers)
+  Band_357=Georef (Band 357:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.403760 Micrometers)
+  Band_358=Georef (Band 358:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.410410 Micrometers)
+  Band_359=Georef (Band 359:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.417060 Micrometers)
+  Band_35=Georef (Band 35:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.224210 Micrometers)
+  Band_360=Georef (Band 360:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.423710 Micrometers)
+  Band_361=Georef (Band 361:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.430360 Micrometers)
+  Band_362=Georef (Band 362:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.437010 Micrometers)
+  Band_363=Georef (Band 363:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.443660 Micrometers)
+  Band_364=Georef (Band 364:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.450310 Micrometers)
+  Band_365=Georef (Band 365:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.456960 Micrometers)
+  Band_366=Georef (Band 366:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.463610 Micrometers)
+  Band_367=Georef (Band 367:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.470260 Micrometers)
+  Band_368=Georef (Band 368:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.476920 Micrometers)
+  Band_369=Georef (Band 369:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.483570 Micrometers)
+  Band_36=Georef (Band 36:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.230770 Micrometers)
+  Band_370=Georef (Band 370:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.490220 Micrometers)
+  Band_371=Georef (Band 371:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.496870 Micrometers)
+  Band_372=Georef (Band 372:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.503530 Micrometers)
+  Band_373=Georef (Band 373:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.510180 Micrometers)
+  Band_374=Georef (Band 374:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.516840 Micrometers)
+  Band_375=Georef (Band 375:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.523490 Micrometers)
+  Band_376=Georef (Band 376:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.530150 Micrometers)
+  Band_377=Georef (Band 377:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.536800 Micrometers)
+  Band_378=Georef (Band 378:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.543460 Micrometers)
+  Band_379=Georef (Band 379:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.550110 Micrometers)
+  Band_37=Georef (Band 37:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.237330 Micrometers)
+  Band_380=Georef (Band 380:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.556770 Micrometers)
+  Band_381=Georef (Band 381:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.563430 Micrometers)
+  Band_382=Georef (Band 382:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.570080 Micrometers)
+  Band_383=Georef (Band 383:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.576740 Micrometers)
+  Band_384=Georef (Band 384:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.583400 Micrometers)
+  Band_385=Georef (Band 385:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.590060 Micrometers)
+  Band_386=Georef (Band 386:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.596720 Micrometers)
+  Band_387=Georef (Band 387:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.603380 Micrometers)
+  Band_388=Georef (Band 388:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.610040 Micrometers)
+  Band_389=Georef (Band 389:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.616700 Micrometers)
+  Band_38=Georef (Band 38:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.243890 Micrometers)
+  Band_390=Georef (Band 390:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.623360 Micrometers)
+  Band_391=Georef (Band 391:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.630020 Micrometers)
+  Band_392=Georef (Band 392:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.636680 Micrometers)
+  Band_393=Georef (Band 393:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.643340 Micrometers)
+  Band_394=Georef (Band 394:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.650000 Micrometers)
+  Band_395=Georef (Band 395:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.656670 Micrometers)
+  Band_396=Georef (Band 396:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.663330 Micrometers)
+  Band_397=Georef (Band 397:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.669990 Micrometers)
+  Band_398=Georef (Band 398:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.676650 Micrometers)
+  Band_399=Georef (Band 399:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.683320 Micrometers)
+  Band_39=Georef (Band 39:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.250450 Micrometers)
+  Band_3=Georef (Band 3:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.014450 Micrometers)
+  Band_400=Georef (Band 400:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.689980 Micrometers)
+  Band_401=Georef (Band 401:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.696650 Micrometers)
+  Band_402=Georef (Band 402:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.703310 Micrometers)
+  Band_403=Georef (Band 403:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.709980 Micrometers)
+  Band_404=Georef (Band 404:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.716640 Micrometers)
+  Band_405=Georef (Band 405:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.723310 Micrometers)
+  Band_406=Georef (Band 406:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.729980 Micrometers)
+  Band_407=Georef (Band 407:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.736640 Micrometers)
+  Band_408=Georef (Band 408:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.743310 Micrometers)
+  Band_409=Georef (Band 409:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.749980 Micrometers)
+  Band_40=Georef (Band 40:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.257010 Micrometers)
+  Band_410=Georef (Band 410:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.756650 Micrometers)
+  Band_411=Georef (Band 411:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.763310 Micrometers)
+  Band_412=Georef (Band 412:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.769980 Micrometers)
+  Band_413=Georef (Band 413:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.776650 Micrometers)
+  Band_414=Georef (Band 414:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.783320 Micrometers)
+  Band_415=Georef (Band 415:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.789990 Micrometers)
+  Band_416=Georef (Band 416:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.796660 Micrometers)
+  Band_417=Georef (Band 417:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.803330 Micrometers)
+  Band_418=Georef (Band 418:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.810000 Micrometers)
+  Band_419=Georef (Band 419:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.816670 Micrometers)
+  Band_41=Georef (Band 41:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.263570 Micrometers)
+  Band_420=Georef (Band 420:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.823350 Micrometers)
+  Band_421=Georef (Band 421:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.830020 Micrometers)
+  Band_422=Georef (Band 422:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.836690 Micrometers)
+  Band_423=Georef (Band 423:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.843360 Micrometers)
+  Band_424=Georef (Band 424:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.850040 Micrometers)
+  Band_425=Georef (Band 425:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.856710 Micrometers)
+  Band_426=Georef (Band 426:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.863390 Micrometers)
+  Band_427=Georef (Band 427:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.870060 Micrometers)
+  Band_428=Georef (Band 428:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.876730 Micrometers)
+  Band_429=Georef (Band 429:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.883410 Micrometers)
+  Band_42=Georef (Band 42:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.270140 Micrometers)
+  Band_430=Georef (Band 430:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.890080 Micrometers)
+  Band_431=Georef (Band 431:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.896760 Micrometers)
+  Band_432=Georef (Band 432:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.903440 Micrometers)
+  Band_433=Georef (Band 433:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.910110 Micrometers)
+  Band_434=Georef (Band 434:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.916790 Micrometers)
+  Band_435=Georef (Band 435:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.923470 Micrometers)
+  Band_436=Georef (Band 436:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.930150 Micrometers)
+  Band_437=Georef (Band 437:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (3.936820 Micrometers)
+  Band_438=Georef (Band 438:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (4.000000 Micrometers)
+  Band_43=Georef (Band 43:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.276700 Micrometers)
+  Band_44=Georef (Band 44:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.283260 Micrometers)
+  Band_45=Georef (Band 45:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.289830 Micrometers)
+  Band_46=Georef (Band 46:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.296390 Micrometers)
+  Band_47=Georef (Band 47:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.302950 Micrometers)
+  Band_48=Georef (Band 48:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.309520 Micrometers)
+  Band_49=Georef (Band 49:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.316080 Micrometers)
+  Band_4=Georef (Band 4:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.021000 Micrometers)
+  Band_50=Georef (Band 50:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.322650 Micrometers)
+  Band_51=Georef (Band 51:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.329210 Micrometers)
+  Band_52=Georef (Band 52:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.335780 Micrometers)
+  Band_53=Georef (Band 53:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.342340 Micrometers)
+  Band_54=Georef (Band 54:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.348910 Micrometers)
+  Band_55=Georef (Band 55:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.355480 Micrometers)
+  Band_56=Georef (Band 56:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.362050 Micrometers)
+  Band_57=Georef (Band 57:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.368610 Micrometers)
+  Band_58=Georef (Band 58:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.375180 Micrometers)
+  Band_59=Georef (Band 59:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.381750 Micrometers)
+  Band_5=Georef (Band 5:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.027550 Micrometers)
+  Band_60=Georef (Band 60:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.388320 Micrometers)
+  Band_61=Georef (Band 61:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.394890 Micrometers)
+  Band_62=Georef (Band 62:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.401450 Micrometers)
+  Band_63=Georef (Band 63:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.408020 Micrometers)
+  Band_64=Georef (Band 64:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.414590 Micrometers)
+  Band_65=Georef (Band 65:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.421160 Micrometers)
+  Band_66=Georef (Band 66:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.427730 Micrometers)
+  Band_67=Georef (Band 67:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.434310 Micrometers)
+  Band_68=Georef (Band 68:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.440880 Micrometers)
+  Band_69=Georef (Band 69:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.447450 Micrometers)
+  Band_6=Georef (Band 6:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.034100 Micrometers)
+  Band_70=Georef (Band 70:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.454020 Micrometers)
+  Band_71=Georef (Band 71:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.460590 Micrometers)
+  Band_72=Georef (Band 72:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.467160 Micrometers)
+  Band_73=Georef (Band 73:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.473740 Micrometers)
+  Band_74=Georef (Band 74:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.480310 Micrometers)
+  Band_75=Georef (Band 75:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.486880 Micrometers)
+  Band_76=Georef (Band 76:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.493460 Micrometers)
+  Band_77=Georef (Band 77:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.500030 Micrometers)
+  Band_78=Georef (Band 78:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.506610 Micrometers)
+  Band_79=Georef (Band 79:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.513180 Micrometers)
+  Band_7=Georef (Band 7:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.040650 Micrometers)
+  Band_80=Georef (Band 80:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.519760 Micrometers)
+  Band_81=Georef (Band 81:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.526330 Micrometers)
+  Band_82=Georef (Band 82:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.532910 Micrometers)
+  Band_83=Georef (Band 83:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.539480 Micrometers)
+  Band_84=Georef (Band 84:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.546060 Micrometers)
+  Band_85=Georef (Band 85:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.552640 Micrometers)
+  Band_86=Georef (Band 86:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.559210 Micrometers)
+  Band_87=Georef (Band 87:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.565790 Micrometers)
+  Band_88=Georef (Band 88:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.572370 Micrometers)
+  Band_89=Georef (Band 89:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.578950 Micrometers)
+  Band_8=Georef (Band 8:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.047200 Micrometers)
+  Band_90=Georef (Band 90:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.585520 Micrometers)
+  Band_91=Georef (Band 91:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.592100 Micrometers)
+  Band_92=Georef (Band 92:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.598680 Micrometers)
+  Band_93=Georef (Band 93:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.605260 Micrometers)
+  Band_94=Georef (Band 94:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.611840 Micrometers)
+  Band_95=Georef (Band 95:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.618420 Micrometers)
+  Band_96=Georef (Band 96:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.625000 Micrometers)
+  Band_97=Georef (Band 97:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.631580 Micrometers)
+  Band_98=Georef (Band 98:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.638160 Micrometers)
+  Band_99=Georef (Band 99:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.644740 Micrometers)
+  Band_9=Georef (Band 9:hrs00006fea_07_if173l_trr3_CAT_scale_trial.img) (1.053750 Micrometers)
+  wavelength_units=Micrometers
+Image Structure Metadata:
+  INTERLEAVE=PIXEL
+Corner Coordinates:
+Upper Left  (   -3700.550,  128337.470) ( 72d52'48.74"E, 87d50'49.03"S)
+Lower Left  (   -3700.550,  116981.070) ( 72d43'11.89"E, 88d 2'14.18"S)
+Upper Right (    4561.550,  128337.470) ( 76d34' 2.91"E, 87d50'47.36"S)
+Lower Right (    4561.550,  116981.070) ( 76d45'53.64"E, 88d 2'12.34"S)
+Center      (     430.500,  122659.270) ( 74d43'58.57"E, 87d56'34.93"S)
+Band 1 Block=259x1 Type=Float32, ColorInterp=Gray
+  NoData Value=65535
+  Metadata:
+    wavelength=1.001350
+    wavelength_units=Micrometers
+Band 2 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.007900
+    wavelength_units=Micrometers
+Band 3 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.014450
+    wavelength_units=Micrometers
+Band 4 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.021000
+    wavelength_units=Micrometers
+Band 5 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.027550
+    wavelength_units=Micrometers
+Band 6 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.034100
+    wavelength_units=Micrometers
+Band 7 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.040650
+    wavelength_units=Micrometers
+Band 8 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.047200
+    wavelength_units=Micrometers
+Band 9 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.053750
+    wavelength_units=Micrometers
+Band 10 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.060300
+    wavelength_units=Micrometers
+Band 11 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.066850
+    wavelength_units=Micrometers
+Band 12 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.073410
+    wavelength_units=Micrometers
+Band 13 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.079960
+    wavelength_units=Micrometers
+Band 14 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.086510
+    wavelength_units=Micrometers
+Band 15 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.093070
+    wavelength_units=Micrometers
+Band 16 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.099620
+    wavelength_units=Micrometers
+Band 17 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.106170
+    wavelength_units=Micrometers
+Band 18 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.112730
+    wavelength_units=Micrometers
+Band 19 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.119280
+    wavelength_units=Micrometers
+Band 20 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.125840
+    wavelength_units=Micrometers
+Band 21 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.132390
+    wavelength_units=Micrometers
+Band 22 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.138950
+    wavelength_units=Micrometers
+Band 23 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.145510
+    wavelength_units=Micrometers
+Band 24 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.152060
+    wavelength_units=Micrometers
+Band 25 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.158620
+    wavelength_units=Micrometers
+Band 26 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.165180
+    wavelength_units=Micrometers
+Band 27 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.171730
+    wavelength_units=Micrometers
+Band 28 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.178290
+    wavelength_units=Micrometers
+Band 29 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.184850
+    wavelength_units=Micrometers
+Band 30 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.191410
+    wavelength_units=Micrometers
+Band 31 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.197970
+    wavelength_units=Micrometers
+Band 32 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.204530
+    wavelength_units=Micrometers
+Band 33 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.211090
+    wavelength_units=Micrometers
+Band 34 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.217650
+    wavelength_units=Micrometers
+Band 35 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.224210
+    wavelength_units=Micrometers
+Band 36 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.230770
+    wavelength_units=Micrometers
+Band 37 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.237330
+    wavelength_units=Micrometers
+Band 38 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.243890
+    wavelength_units=Micrometers
+Band 39 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.250450
+    wavelength_units=Micrometers
+Band 40 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.257010
+    wavelength_units=Micrometers
+Band 41 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.263570
+    wavelength_units=Micrometers
+Band 42 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.270140
+    wavelength_units=Micrometers
+Band 43 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.276700
+    wavelength_units=Micrometers
+Band 44 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.283260
+    wavelength_units=Micrometers
+Band 45 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.289830
+    wavelength_units=Micrometers
+Band 46 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.296390
+    wavelength_units=Micrometers
+Band 47 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.302950
+    wavelength_units=Micrometers
+Band 48 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.309520
+    wavelength_units=Micrometers
+Band 49 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.316080
+    wavelength_units=Micrometers
+Band 50 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.322650
+    wavelength_units=Micrometers
+Band 51 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.329210
+    wavelength_units=Micrometers
+Band 52 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.335780
+    wavelength_units=Micrometers
+Band 53 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.342340
+    wavelength_units=Micrometers
+Band 54 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.348910
+    wavelength_units=Micrometers
+Band 55 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.355480
+    wavelength_units=Micrometers
+Band 56 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.362050
+    wavelength_units=Micrometers
+Band 57 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.368610
+    wavelength_units=Micrometers
+Band 58 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.375180
+    wavelength_units=Micrometers
+Band 59 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.381750
+    wavelength_units=Micrometers
+Band 60 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.388320
+    wavelength_units=Micrometers
+Band 61 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.394890
+    wavelength_units=Micrometers
+Band 62 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.401450
+    wavelength_units=Micrometers
+Band 63 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.408020
+    wavelength_units=Micrometers
+Band 64 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.414590
+    wavelength_units=Micrometers
+Band 65 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.421160
+    wavelength_units=Micrometers
+Band 66 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.427730
+    wavelength_units=Micrometers
+Band 67 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.434310
+    wavelength_units=Micrometers
+Band 68 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.440880
+    wavelength_units=Micrometers
+Band 69 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.447450
+    wavelength_units=Micrometers
+Band 70 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.454020
+    wavelength_units=Micrometers
+Band 71 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.460590
+    wavelength_units=Micrometers
+Band 72 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.467160
+    wavelength_units=Micrometers
+Band 73 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.473740
+    wavelength_units=Micrometers
+Band 74 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.480310
+    wavelength_units=Micrometers
+Band 75 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.486880
+    wavelength_units=Micrometers
+Band 76 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.493460
+    wavelength_units=Micrometers
+Band 77 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.500030
+    wavelength_units=Micrometers
+Band 78 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.506610
+    wavelength_units=Micrometers
+Band 79 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.513180
+    wavelength_units=Micrometers
+Band 80 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.519760
+    wavelength_units=Micrometers
+Band 81 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.526330
+    wavelength_units=Micrometers
+Band 82 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.532910
+    wavelength_units=Micrometers
+Band 83 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.539480
+    wavelength_units=Micrometers
+Band 84 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.546060
+    wavelength_units=Micrometers
+Band 85 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.552640
+    wavelength_units=Micrometers
+Band 86 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.559210
+    wavelength_units=Micrometers
+Band 87 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.565790
+    wavelength_units=Micrometers
+Band 88 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.572370
+    wavelength_units=Micrometers
+Band 89 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.578950
+    wavelength_units=Micrometers
+Band 90 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.585520
+    wavelength_units=Micrometers
+Band 91 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.592100
+    wavelength_units=Micrometers
+Band 92 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.598680
+    wavelength_units=Micrometers
+Band 93 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.605260
+    wavelength_units=Micrometers
+Band 94 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.611840
+    wavelength_units=Micrometers
+Band 95 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.618420
+    wavelength_units=Micrometers
+Band 96 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.625000
+    wavelength_units=Micrometers
+Band 97 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.631580
+    wavelength_units=Micrometers
+Band 98 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.638160
+    wavelength_units=Micrometers
+Band 99 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.644740
+    wavelength_units=Micrometers
+Band 100 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.651330
+    wavelength_units=Micrometers
+Band 101 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.657910
+    wavelength_units=Micrometers
+Band 102 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.664490
+    wavelength_units=Micrometers
+Band 103 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.671070
+    wavelength_units=Micrometers
+Band 104 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.677660
+    wavelength_units=Micrometers
+Band 105 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.684240
+    wavelength_units=Micrometers
+Band 106 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.690820
+    wavelength_units=Micrometers
+Band 107 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.697410
+    wavelength_units=Micrometers
+Band 108 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.703990
+    wavelength_units=Micrometers
+Band 109 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.710580
+    wavelength_units=Micrometers
+Band 110 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.717160
+    wavelength_units=Micrometers
+Band 111 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.723750
+    wavelength_units=Micrometers
+Band 112 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.730330
+    wavelength_units=Micrometers
+Band 113 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.736920
+    wavelength_units=Micrometers
+Band 114 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.743510
+    wavelength_units=Micrometers
+Band 115 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.750090
+    wavelength_units=Micrometers
+Band 116 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.756680
+    wavelength_units=Micrometers
+Band 117 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.763270
+    wavelength_units=Micrometers
+Band 118 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.769850
+    wavelength_units=Micrometers
+Band 119 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.776440
+    wavelength_units=Micrometers
+Band 120 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.783030
+    wavelength_units=Micrometers
+Band 121 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.789620
+    wavelength_units=Micrometers
+Band 122 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.796210
+    wavelength_units=Micrometers
+Band 123 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.802800
+    wavelength_units=Micrometers
+Band 124 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.809390
+    wavelength_units=Micrometers
+Band 125 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.815980
+    wavelength_units=Micrometers
+Band 126 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.822570
+    wavelength_units=Micrometers
+Band 127 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.829160
+    wavelength_units=Micrometers
+Band 128 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.835750
+    wavelength_units=Micrometers
+Band 129 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.842340
+    wavelength_units=Micrometers
+Band 130 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.848930
+    wavelength_units=Micrometers
+Band 131 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.855520
+    wavelength_units=Micrometers
+Band 132 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.862120
+    wavelength_units=Micrometers
+Band 133 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.868710
+    wavelength_units=Micrometers
+Band 134 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.875300
+    wavelength_units=Micrometers
+Band 135 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.881900
+    wavelength_units=Micrometers
+Band 136 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.888490
+    wavelength_units=Micrometers
+Band 137 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.895080
+    wavelength_units=Micrometers
+Band 138 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.901680
+    wavelength_units=Micrometers
+Band 139 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.908270
+    wavelength_units=Micrometers
+Band 140 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.914870
+    wavelength_units=Micrometers
+Band 141 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.921460
+    wavelength_units=Micrometers
+Band 142 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.928060
+    wavelength_units=Micrometers
+Band 143 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.934650
+    wavelength_units=Micrometers
+Band 144 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.941250
+    wavelength_units=Micrometers
+Band 145 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.947850
+    wavelength_units=Micrometers
+Band 146 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.954440
+    wavelength_units=Micrometers
+Band 147 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.961040
+    wavelength_units=Micrometers
+Band 148 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.967640
+    wavelength_units=Micrometers
+Band 149 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.974240
+    wavelength_units=Micrometers
+Band 150 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.980840
+    wavelength_units=Micrometers
+Band 151 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.987430
+    wavelength_units=Micrometers
+Band 152 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=1.994030
+    wavelength_units=Micrometers
+Band 153 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.000630
+    wavelength_units=Micrometers
+Band 154 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.007230
+    wavelength_units=Micrometers
+Band 155 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.013830
+    wavelength_units=Micrometers
+Band 156 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.020430
+    wavelength_units=Micrometers
+Band 157 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.027030
+    wavelength_units=Micrometers
+Band 158 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.033630
+    wavelength_units=Micrometers
+Band 159 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.040240
+    wavelength_units=Micrometers
+Band 160 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.046840
+    wavelength_units=Micrometers
+Band 161 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.053440
+    wavelength_units=Micrometers
+Band 162 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.060040
+    wavelength_units=Micrometers
+Band 163 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.066640
+    wavelength_units=Micrometers
+Band 164 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.073250
+    wavelength_units=Micrometers
+Band 165 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.079850
+    wavelength_units=Micrometers
+Band 166 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.086450
+    wavelength_units=Micrometers
+Band 167 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.093060
+    wavelength_units=Micrometers
+Band 168 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.099660
+    wavelength_units=Micrometers
+Band 169 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.106270
+    wavelength_units=Micrometers
+Band 170 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.112870
+    wavelength_units=Micrometers
+Band 171 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.119480
+    wavelength_units=Micrometers
+Band 172 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.126080
+    wavelength_units=Micrometers
+Band 173 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.132690
+    wavelength_units=Micrometers
+Band 174 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.139300
+    wavelength_units=Micrometers
+Band 175 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.145900
+    wavelength_units=Micrometers
+Band 176 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.152510
+    wavelength_units=Micrometers
+Band 177 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.159120
+    wavelength_units=Micrometers
+Band 178 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.165720
+    wavelength_units=Micrometers
+Band 179 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.172330
+    wavelength_units=Micrometers
+Band 180 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.178940
+    wavelength_units=Micrometers
+Band 181 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.185550
+    wavelength_units=Micrometers
+Band 182 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.192160
+    wavelength_units=Micrometers
+Band 183 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.198770
+    wavelength_units=Micrometers
+Band 184 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.205380
+    wavelength_units=Micrometers
+Band 185 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.211990
+    wavelength_units=Micrometers
+Band 186 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.218600
+    wavelength_units=Micrometers
+Band 187 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.225210
+    wavelength_units=Micrometers
+Band 188 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.231820
+    wavelength_units=Micrometers
+Band 189 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.238430
+    wavelength_units=Micrometers
+Band 190 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.245040
+    wavelength_units=Micrometers
+Band 191 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.251650
+    wavelength_units=Micrometers
+Band 192 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.258270
+    wavelength_units=Micrometers
+Band 193 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.264880
+    wavelength_units=Micrometers
+Band 194 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.271490
+    wavelength_units=Micrometers
+Band 195 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.278100
+    wavelength_units=Micrometers
+Band 196 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.284720
+    wavelength_units=Micrometers
+Band 197 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.291330
+    wavelength_units=Micrometers
+Band 198 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.297950
+    wavelength_units=Micrometers
+Band 199 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.304560
+    wavelength_units=Micrometers
+Band 200 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.311180
+    wavelength_units=Micrometers
+Band 201 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.317790
+    wavelength_units=Micrometers
+Band 202 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.324410
+    wavelength_units=Micrometers
+Band 203 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.331020
+    wavelength_units=Micrometers
+Band 204 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.337640
+    wavelength_units=Micrometers
+Band 205 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.344260
+    wavelength_units=Micrometers
+Band 206 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.350870
+    wavelength_units=Micrometers
+Band 207 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.357490
+    wavelength_units=Micrometers
+Band 208 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.364110
+    wavelength_units=Micrometers
+Band 209 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.370720
+    wavelength_units=Micrometers
+Band 210 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.377340
+    wavelength_units=Micrometers
+Band 211 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.383960
+    wavelength_units=Micrometers
+Band 212 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.390580
+    wavelength_units=Micrometers
+Band 213 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.397200
+    wavelength_units=Micrometers
+Band 214 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.403820
+    wavelength_units=Micrometers
+Band 215 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.410440
+    wavelength_units=Micrometers
+Band 216 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.417060
+    wavelength_units=Micrometers
+Band 217 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.423680
+    wavelength_units=Micrometers
+Band 218 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.430300
+    wavelength_units=Micrometers
+Band 219 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.436920
+    wavelength_units=Micrometers
+Band 220 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.443540
+    wavelength_units=Micrometers
+Band 221 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.450170
+    wavelength_units=Micrometers
+Band 222 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.456790
+    wavelength_units=Micrometers
+Band 223 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.463410
+    wavelength_units=Micrometers
+Band 224 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.470030
+    wavelength_units=Micrometers
+Band 225 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.476660
+    wavelength_units=Micrometers
+Band 226 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.483280
+    wavelength_units=Micrometers
+Band 227 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.489900
+    wavelength_units=Micrometers
+Band 228 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.496530
+    wavelength_units=Micrometers
+Band 229 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.503120
+    wavelength_units=Micrometers
+Band 230 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.509720
+    wavelength_units=Micrometers
+Band 231 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.516320
+    wavelength_units=Micrometers
+Band 232 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.522920
+    wavelength_units=Micrometers
+Band 233 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.529510
+    wavelength_units=Micrometers
+Band 234 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.536110
+    wavelength_units=Micrometers
+Band 235 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.542710
+    wavelength_units=Micrometers
+Band 236 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.549310
+    wavelength_units=Micrometers
+Band 237 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.555910
+    wavelength_units=Micrometers
+Band 238 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.562510
+    wavelength_units=Micrometers
+Band 239 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.569110
+    wavelength_units=Micrometers
+Band 240 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.575710
+    wavelength_units=Micrometers
+Band 241 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.582310
+    wavelength_units=Micrometers
+Band 242 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.588910
+    wavelength_units=Micrometers
+Band 243 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.595510
+    wavelength_units=Micrometers
+Band 244 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.602120
+    wavelength_units=Micrometers
+Band 245 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.608720
+    wavelength_units=Micrometers
+Band 246 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.615320
+    wavelength_units=Micrometers
+Band 247 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.621920
+    wavelength_units=Micrometers
+Band 248 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.628530
+    wavelength_units=Micrometers
+Band 249 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.635130
+    wavelength_units=Micrometers
+Band 250 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.641740
+    wavelength_units=Micrometers
+Band 251 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.648340
+    wavelength_units=Micrometers
+Band 252 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.654950
+    wavelength_units=Micrometers
+Band 253 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.661550
+    wavelength_units=Micrometers
+Band 254 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.668160
+    wavelength_units=Micrometers
+Band 255 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.674760
+    wavelength_units=Micrometers
+Band 256 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.681370
+    wavelength_units=Micrometers
+Band 257 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.687980
+    wavelength_units=Micrometers
+Band 258 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.694580
+    wavelength_units=Micrometers
+Band 259 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.701190
+    wavelength_units=Micrometers
+Band 260 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.760680
+    wavelength_units=Micrometers
+Band 261 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.767290
+    wavelength_units=Micrometers
+Band 262 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.773900
+    wavelength_units=Micrometers
+Band 263 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.780520
+    wavelength_units=Micrometers
+Band 264 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.787130
+    wavelength_units=Micrometers
+Band 265 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.793740
+    wavelength_units=Micrometers
+Band 266 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.800350
+    wavelength_units=Micrometers
+Band 267 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.806970
+    wavelength_units=Micrometers
+Band 268 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.813580
+    wavelength_units=Micrometers
+Band 269 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.820200
+    wavelength_units=Micrometers
+Band 270 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.826810
+    wavelength_units=Micrometers
+Band 271 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.833430
+    wavelength_units=Micrometers
+Band 272 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.840040
+    wavelength_units=Micrometers
+Band 273 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.846660
+    wavelength_units=Micrometers
+Band 274 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.853280
+    wavelength_units=Micrometers
+Band 275 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.859890
+    wavelength_units=Micrometers
+Band 276 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.866510
+    wavelength_units=Micrometers
+Band 277 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.873130
+    wavelength_units=Micrometers
+Band 278 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.879750
+    wavelength_units=Micrometers
+Band 279 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.886360
+    wavelength_units=Micrometers
+Band 280 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.892980
+    wavelength_units=Micrometers
+Band 281 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.899600
+    wavelength_units=Micrometers
+Band 282 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.906220
+    wavelength_units=Micrometers
+Band 283 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.912840
+    wavelength_units=Micrometers
+Band 284 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.919460
+    wavelength_units=Micrometers
+Band 285 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.926080
+    wavelength_units=Micrometers
+Band 286 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.932700
+    wavelength_units=Micrometers
+Band 287 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.939320
+    wavelength_units=Micrometers
+Band 288 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.945950
+    wavelength_units=Micrometers
+Band 289 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.952570
+    wavelength_units=Micrometers
+Band 290 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.959190
+    wavelength_units=Micrometers
+Band 291 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.965810
+    wavelength_units=Micrometers
+Band 292 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.972440
+    wavelength_units=Micrometers
+Band 293 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.979060
+    wavelength_units=Micrometers
+Band 294 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.985680
+    wavelength_units=Micrometers
+Band 295 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.992310
+    wavelength_units=Micrometers
+Band 296 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=2.998930
+    wavelength_units=Micrometers
+Band 297 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.005560
+    wavelength_units=Micrometers
+Band 298 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.012180
+    wavelength_units=Micrometers
+Band 299 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.018810
+    wavelength_units=Micrometers
+Band 300 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.025440
+    wavelength_units=Micrometers
+Band 301 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.032060
+    wavelength_units=Micrometers
+Band 302 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.038690
+    wavelength_units=Micrometers
+Band 303 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.045320
+    wavelength_units=Micrometers
+Band 304 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.051950
+    wavelength_units=Micrometers
+Band 305 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.058570
+    wavelength_units=Micrometers
+Band 306 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.065200
+    wavelength_units=Micrometers
+Band 307 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.071830
+    wavelength_units=Micrometers
+Band 308 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.078460
+    wavelength_units=Micrometers
+Band 309 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.085090
+    wavelength_units=Micrometers
+Band 310 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.091720
+    wavelength_units=Micrometers
+Band 311 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.098350
+    wavelength_units=Micrometers
+Band 312 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.104980
+    wavelength_units=Micrometers
+Band 313 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.111610
+    wavelength_units=Micrometers
+Band 314 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.118250
+    wavelength_units=Micrometers
+Band 315 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.124880
+    wavelength_units=Micrometers
+Band 316 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.131510
+    wavelength_units=Micrometers
+Band 317 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.138140
+    wavelength_units=Micrometers
+Band 318 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.144780
+    wavelength_units=Micrometers
+Band 319 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.151410
+    wavelength_units=Micrometers
+Band 320 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.158040
+    wavelength_units=Micrometers
+Band 321 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.164680
+    wavelength_units=Micrometers
+Band 322 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.171310
+    wavelength_units=Micrometers
+Band 323 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.177950
+    wavelength_units=Micrometers
+Band 324 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.184580
+    wavelength_units=Micrometers
+Band 325 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.191220
+    wavelength_units=Micrometers
+Band 326 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.197850
+    wavelength_units=Micrometers
+Band 327 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.204490
+    wavelength_units=Micrometers
+Band 328 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.211130
+    wavelength_units=Micrometers
+Band 329 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.217760
+    wavelength_units=Micrometers
+Band 330 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.224400
+    wavelength_units=Micrometers
+Band 331 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.231040
+    wavelength_units=Micrometers
+Band 332 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.237680
+    wavelength_units=Micrometers
+Band 333 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.244320
+    wavelength_units=Micrometers
+Band 334 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.250960
+    wavelength_units=Micrometers
+Band 335 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.257600
+    wavelength_units=Micrometers
+Band 336 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.264240
+    wavelength_units=Micrometers
+Band 337 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.270880
+    wavelength_units=Micrometers
+Band 338 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.277520
+    wavelength_units=Micrometers
+Band 339 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.284160
+    wavelength_units=Micrometers
+Band 340 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.290800
+    wavelength_units=Micrometers
+Band 341 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.297440
+    wavelength_units=Micrometers
+Band 342 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.304080
+    wavelength_units=Micrometers
+Band 343 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.310730
+    wavelength_units=Micrometers
+Band 344 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.317370
+    wavelength_units=Micrometers
+Band 345 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.324010
+    wavelength_units=Micrometers
+Band 346 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.330660
+    wavelength_units=Micrometers
+Band 347 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.337300
+    wavelength_units=Micrometers
+Band 348 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.343950
+    wavelength_units=Micrometers
+Band 349 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.350590
+    wavelength_units=Micrometers
+Band 350 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.357240
+    wavelength_units=Micrometers
+Band 351 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.363880
+    wavelength_units=Micrometers
+Band 352 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.370530
+    wavelength_units=Micrometers
+Band 353 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.377170
+    wavelength_units=Micrometers
+Band 354 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.383820
+    wavelength_units=Micrometers
+Band 355 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.390470
+    wavelength_units=Micrometers
+Band 356 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.397120
+    wavelength_units=Micrometers
+Band 357 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.403760
+    wavelength_units=Micrometers
+Band 358 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.410410
+    wavelength_units=Micrometers
+Band 359 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.417060
+    wavelength_units=Micrometers
+Band 360 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.423710
+    wavelength_units=Micrometers
+Band 361 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.430360
+    wavelength_units=Micrometers
+Band 362 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.437010
+    wavelength_units=Micrometers
+Band 363 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.443660
+    wavelength_units=Micrometers
+Band 364 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.450310
+    wavelength_units=Micrometers
+Band 365 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.456960
+    wavelength_units=Micrometers
+Band 366 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.463610
+    wavelength_units=Micrometers
+Band 367 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.470260
+    wavelength_units=Micrometers
+Band 368 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.476920
+    wavelength_units=Micrometers
+Band 369 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.483570
+    wavelength_units=Micrometers
+Band 370 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.490220
+    wavelength_units=Micrometers
+Band 371 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.496870
+    wavelength_units=Micrometers
+Band 372 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.503530
+    wavelength_units=Micrometers
+Band 373 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.510180
+    wavelength_units=Micrometers
+Band 374 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.516840
+    wavelength_units=Micrometers
+Band 375 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.523490
+    wavelength_units=Micrometers
+Band 376 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.530150
+    wavelength_units=Micrometers
+Band 377 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.536800
+    wavelength_units=Micrometers
+Band 378 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.543460
+    wavelength_units=Micrometers
+Band 379 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.550110
+    wavelength_units=Micrometers
+Band 380 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.556770
+    wavelength_units=Micrometers
+Band 381 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.563430
+    wavelength_units=Micrometers
+Band 382 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.570080
+    wavelength_units=Micrometers
+Band 383 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.576740
+    wavelength_units=Micrometers
+Band 384 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.583400
+    wavelength_units=Micrometers
+Band 385 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.590060
+    wavelength_units=Micrometers
+Band 386 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.596720
+    wavelength_units=Micrometers
+Band 387 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.603380
+    wavelength_units=Micrometers
+Band 388 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.610040
+    wavelength_units=Micrometers
+Band 389 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.616700
+    wavelength_units=Micrometers
+Band 390 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.623360
+    wavelength_units=Micrometers
+Band 391 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.630020
+    wavelength_units=Micrometers
+Band 392 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.636680
+    wavelength_units=Micrometers
+Band 393 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.643340
+    wavelength_units=Micrometers
+Band 394 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.650000
+    wavelength_units=Micrometers
+Band 395 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.656670
+    wavelength_units=Micrometers
+Band 396 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.663330
+    wavelength_units=Micrometers
+Band 397 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.669990
+    wavelength_units=Micrometers
+Band 398 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.676650
+    wavelength_units=Micrometers
+Band 399 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.683320
+    wavelength_units=Micrometers
+Band 400 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.689980
+    wavelength_units=Micrometers
+Band 401 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.696650
+    wavelength_units=Micrometers
+Band 402 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.703310
+    wavelength_units=Micrometers
+Band 403 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.709980
+    wavelength_units=Micrometers
+Band 404 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.716640
+    wavelength_units=Micrometers
+Band 405 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.723310
+    wavelength_units=Micrometers
+Band 406 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.729980
+    wavelength_units=Micrometers
+Band 407 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.736640
+    wavelength_units=Micrometers
+Band 408 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.743310
+    wavelength_units=Micrometers
+Band 409 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.749980
+    wavelength_units=Micrometers
+Band 410 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.756650
+    wavelength_units=Micrometers
+Band 411 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.763310
+    wavelength_units=Micrometers
+Band 412 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.769980
+    wavelength_units=Micrometers
+Band 413 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.776650
+    wavelength_units=Micrometers
+Band 414 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.783320
+    wavelength_units=Micrometers
+Band 415 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.789990
+    wavelength_units=Micrometers
+Band 416 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.796660
+    wavelength_units=Micrometers
+Band 417 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.803330
+    wavelength_units=Micrometers
+Band 418 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.810000
+    wavelength_units=Micrometers
+Band 419 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.816670
+    wavelength_units=Micrometers
+Band 420 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.823350
+    wavelength_units=Micrometers
+Band 421 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.830020
+    wavelength_units=Micrometers
+Band 422 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.836690
+    wavelength_units=Micrometers
+Band 423 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.843360
+    wavelength_units=Micrometers
+Band 424 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.850040
+    wavelength_units=Micrometers
+Band 425 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.856710
+    wavelength_units=Micrometers
+Band 426 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.863390
+    wavelength_units=Micrometers
+Band 427 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.870060
+    wavelength_units=Micrometers
+Band 428 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.876730
+    wavelength_units=Micrometers
+Band 429 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.883410
+    wavelength_units=Micrometers
+Band 430 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.890080
+    wavelength_units=Micrometers
+Band 431 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.896760
+    wavelength_units=Micrometers
+Band 432 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.903440
+    wavelength_units=Micrometers
+Band 433 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.910110
+    wavelength_units=Micrometers
+Band 434 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.916790
+    wavelength_units=Micrometers
+Band 435 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.923470
+    wavelength_units=Micrometers
+Band 436 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.930150
+    wavelength_units=Micrometers
+Band 437 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=3.936820
+    wavelength_units=Micrometers
+Band 438 Block=259x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=65535
+  Metadata:
+    wavelength=4.000000
+    wavelength_units=Micrometers
+
